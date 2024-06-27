@@ -15,7 +15,6 @@ public class ArrayBuild3 {
 
     public Object get(int index){
         return data[index];
-
     }
 
     public void push(Object obj){
